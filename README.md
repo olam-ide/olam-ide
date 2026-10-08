@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Olamide and i love to code and build stuff.
+
 <!--
 **olam-ide/olam-ide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
